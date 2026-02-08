@@ -1,8 +1,8 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "practica-sails/practica-sails",
+    "name": "laravel/laravel",
     "type": "project",
-    "description": "Practica-Sails Application",
+    "description": "The skeleton application for the Laravel framework.",
     "keywords": [
         "laravel",
         "framework"
